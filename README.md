@@ -11,7 +11,7 @@
       <li>User can see all the Entries in the table <i>This is by default if table has nothing it will show a message to user that nothing is in the table at the moment</i></li>
       <li>User can add new items</li>
       <li>User can update the items in the list by their id number</li>
-      </li>User can also update and delete the itmes in the table by refering to their respective id</li>
+      <li>User can also update and delete the itmes in the table by refering to their respective id</li>
      </ol>
 </p>
   
