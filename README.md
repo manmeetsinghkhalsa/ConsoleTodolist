@@ -2,6 +2,7 @@
 <h2>Console based Todolist in java </h2>
 <ul>
   Tools Used
+  <li>Jetbraains inntelij ide is used to make this prroject</li>
   <li>Java</li>
   <li>JDBC</li>
   <li>Sqlite</li>
